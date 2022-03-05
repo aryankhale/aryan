@@ -1,0 +1,3 @@
+ip=Aryankhale.aternos.me
+port=  60264
+name=Minecraft server 
